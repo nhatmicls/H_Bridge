@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [DVR8412.PcbDoc]
+   Generated File[Gerbel_2021-03-11.TXT]
+   Generated File[Gerbel_2021-03-11.LDP]
+   Generated File[Gerbel_2021-03-11.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:52:57 AM On 3/11/2021
