@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [DRV8432.PcbDoc]
+   Generated File[DRV8432.TXT]
+   Generated File[DRV8432.LDP]
+   Generated File[DRV8432.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 2:19:32 PM On 1/9/2022
