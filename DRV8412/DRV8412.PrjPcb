@@ -30,7 +30,10 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
+<<<<<<< Updated upstream:DRV8412/DRV8412.PrjPcb
 IsProjectConflictPreventionWarningsEnabled=1
+=======
+>>>>>>> Stashed changes:DVR8412/DVR8412.PrjPcb
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=

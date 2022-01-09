@@ -26,3 +26,7 @@ DRV8412/Release/2021-04-07/Gerber/__Previews/
 DRV8432/History/
 
 DRV8432/__Previews/
+
+*.LOG
+
+DRV8412/__Previews/
